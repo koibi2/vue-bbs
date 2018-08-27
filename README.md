@@ -11,7 +11,7 @@
 【后台】PHP  
 
 ## 图片浏览  
-![首页](http://mardown-pic-1252666898.coscd.myqcloud.com/github-bbs/1.jpg)
+![index](http://mardown-pic-1252666898.coscd.myqcloud.com/github-bbs/1.jpg)  
 
 ## 参与贡献  
 我自己    
