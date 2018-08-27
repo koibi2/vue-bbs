@@ -10,6 +10,9 @@
 【前端】Vue+Vue-Router+Vuex+WebPack+Mint UI+Axios  
 【后台】PHP  
 
+## 图片浏览  
+![首页](http://mardown-pic-1252666898.coscd.myqcloud.com/github-bbs/1.jpg)
+
 ## 参与贡献  
 我自己    
 
@@ -17,5 +20,5 @@
 开发期间只写开发日志。【不然每天更新Github，嫌麻烦_(:з」∠)_  
 项目初版开发完成后，会公开所有代码！  
 
-但后续，如新功能的增加不一定保证。（这是个自我练习的Demo。）  
+但后续，如新功能的增加不一定保证。（毕竟是自我练习的Demo）  
 有必要的话会继续维护！  
