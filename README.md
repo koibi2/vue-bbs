@@ -5,10 +5,6 @@
 本项目是个人练习的作品。所有代码均为自己编写。  
 界面模仿、改进自“百度贴吧-极速版APP”。  
 
-## 技术栈  
-【前端】Vue+Vue-Router+Vuex+WebPack+Mint UI+Axios  
-【后台】PHP  
-
 ## 图片浏览  
 【首页】![index](http://mardown-pic-1252666898.coscd.myqcloud.com/github-bbs/1.jpg) 
 【贴子】![index](http://mardown-pic-1252666898.coscd.myqcloud.com/github-bbs/2.jpg) 
@@ -16,7 +12,11 @@
 【回复】![index](http://mardown-pic-1252666898.coscd.myqcloud.com/github-bbs/3.jpg) 
 【设置】![index](http://mardown-pic-1252666898.coscd.myqcloud.com/github-bbs/4.jpg) 
   
-【更多页面正在开发中......】
+【更多页面正在开发中......】  
+
+## 技术栈  
+【前端】Vue+Vue-Router+Vuex+WebPack+Mint UI+Axios  
+【后台】PHP  
 
 ## 开发日志（每天更新）  
 http://me.vsqx.top/2018/08/27/【风语论坛】网站开发日志/  
