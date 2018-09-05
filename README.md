@@ -9,7 +9,7 @@
 【前端】Vue+Vue-Router+Vuex+WebPack+Mint UI+Axios  
 【后台】PHP  
 
-## 图片浏览  
+## 图片浏览（初版界面）  
 【首页】![index](http://mardown-pic-1252666898.coscd.myqcloud.com/github-bbs/1.jpg) 
 【贴子】![index](http://mardown-pic-1252666898.coscd.myqcloud.com/github-bbs/2.jpg) 
   
